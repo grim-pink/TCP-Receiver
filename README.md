@@ -46,6 +46,4 @@ The TCP Receiver processes TCPSegments and uses the Reassembler to write bytes t
 ### Running Tests
 
 To test the entire implementation:
-```sh
-ctest
-```
+`ctest`
